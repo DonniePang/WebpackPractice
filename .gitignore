@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.vscode/
+pattern-charter5.js
